@@ -1,0 +1,3 @@
+29-04-2025 23:26:58 | El valor 10.00 [USD] corresponde al valor final de =>>> 11706.70 [ARS]
+29-04-2025 23:27:01 | El valor 250.00 [BRL] corresponde al valor final de =>>> 44.20 [USD]
+29-04-2025 23:27:09 | El valor 500.00 [PEN] corresponde al valor final de =>>> 136.35 [USD]
