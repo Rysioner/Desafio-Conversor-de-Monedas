@@ -1,3 +1,5 @@
+![logo](https://github.com/user-attachments/assets/8f755192-f12a-4d4c-a3a9-2b491bb8fcae)
+
 <hr>
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Finalizado-green">
@@ -23,8 +25,8 @@
  Proyecto terminado para ser enviado según las peticiones que se hizo en el challenge de Alura, el cuál está principalmente enfocado en desarrollar las habilidades aprendidas sobre BackEnd usando el lenguaje Java.
 
 "Conversor de Monedas" es una aplicación que permite elegir el cambio de la moneda que desee según lo que se elija en el menú de opciones, para posteriormente ingresar el monto que desea convertir, dándole como respuesta el monto convertido a la moneda previamente seleccionada.
+![Interfaz Menu](https://github.com/user-attachments/assets/cbf8f28c-7fc5-49bd-824f-398459dd11fa)
 
-![Interfaz del menu](https://github.com/user-attachments/assets/f96f0eec-0bfc-408c-8a54-f57f5cd523e7)
 
 
 ## Funcionalidades
@@ -39,7 +41,7 @@
 
 <div align="center">
 
-![Usando la app](https://github.com/user-attachments/assets/55130f07-561a-42b3-ab66-1bf957b472df)
+![Usando la app](https://github.com/user-attachments/assets/945a21b4-f436-455e-b3e8-e96a69e2f7d3)
 
 
 </div>
@@ -55,4 +57,4 @@
 
 ## Acceso al Proyecto
 
-Usted puede [acceder al código fuente de la aplicación](https://github.com/Rysioner/Conversor-de-monedas.git).
+Usted puede [acceder al código fuente de la aplicación](https://github.com/Rysioner/Desafio-Conversor-de-Monedas.git).
